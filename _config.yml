@@ -23,10 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "datouzhao.png"
+  name             : "Laihao Yang"
+  pronouns         : # example: "He"  
+  bio              : "Yang Laihao is an Associate Researcher at the Aero-Engine Research Institute of Xi’an Jiaotong University and Deputy Director of the AECC–XJTU UIC. He serves as a member of the Dynamic Signal Analysis Technical Committee of the Chinese Society for Vibration Engineering, a member of the IFToMM China Committee, Associate Editor of the International Journal of Advanced Robotic Systems, a young editorial board member of journals including SmartBot, and a session chair for international conferences such as IEEE IROS.
+
+In recent years, he has led more than 10 research projects, including two projects funded by the National Natural Science Foundation of China and a large-scale scientific facility cultivation project, with total research funding exceeding RMB 34 million. He has published one academic monograph and more than 100 papers in journals such as Science Advances and IEEE Transactions on Robotics, including 34 SCI-indexed papers as first or corresponding author. He has disclosed/been granted more than 100 invention patents, received the Second Prize of the Science and Technology Award of the Chinese Society for Vibration Engineering (provincial/ministerial level, ranked first), the First Prize for Outstanding Scientific Research Achievements of Higher Education Institutions in Shaanxi Province, and other honors. His work has been featured by major media outlets, including CCTV-7 Military Channel, China Daily, and Shaanxi TV News Broadcast, which aired a 9-minute special interview."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
