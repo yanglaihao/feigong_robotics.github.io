@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "datouzhao.png"
   name             : "Laihao Yang"
   pronouns         : # example: "He"  
   bio              : "Yang Laihao is an Associate Researcher at the School of Mechanical Engineering in Xi’an Jiaotong University and Deputy Director of the AECC–XJTU UIC. He serves as a member of the Dynamic Signal Analysis Technical Committee of the Chinese Society for Vibration Engineering, a member of the IFToMM China Committee, Associate Editor of the International Journal of Advanced Robotic Systems, a young editorial board member of journals including SmartBot, and a session chair for international conferences such as IEEE IROS."
